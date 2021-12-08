@@ -3,7 +3,6 @@
 
 # Overview:
 A proposed bike sharing program in Des Moines, Iowa leaves investors wanting more information. This analysis takes data from New York City's bike sharing program and is meant to solidify the proposal.
-# Results:
 ## The visulisations:
 * Checkout Times by Minutes shows that most bikes are only used for 10 minutes. With people making short trips wear and tear would be minimal.
 * Trips by Weekday shows that the bikesharing program is consistany busy on certain days and times. Consistancy makes preparation and maintenence easier.
